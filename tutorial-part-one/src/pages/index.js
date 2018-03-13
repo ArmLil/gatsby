@@ -9,6 +9,12 @@ export default () =>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
     <br />
     <div>
-      <Link to="/page-2/">Link</Link>
+      <Link to="/page-2/">Link1</Link>
+    </div>
+    <div>
+      <Link to="/page-3/">Link2</Link>
+    </div>
+    <div>
+      <Link to="/counter/">Counter</Link>
     </div>
   </div>
