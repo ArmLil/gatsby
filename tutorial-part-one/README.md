@@ -8,3 +8,10 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 ## Running in development
 `gatsby develop`
+
+gatsby build
+surge public/
+
+
+Published to domain
+aromatic-jelly.surge.sh
